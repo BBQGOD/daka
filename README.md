@@ -23,3 +23,6 @@ Tips:
 
 ## 游凯超
 2021-1-6 学习markdown、git和python
+
+## 刘子君
+2021-1-10 配置markdown环境
